@@ -4,6 +4,10 @@
 
 The project builds a website where users can create, save, favorite and delete idea cards. There are two input fields one for the title and the other for the body. When the user clicks save, a card is generated lower down on the page with those inputs creating a card with that information. In the header of the card there is a large "X" for the delete button and a star icon so the user can add the card to their favorites. The user can click the "Show Starred Ideas" button to see their favorite idea cards. That button can toggle into the "Show All Ideas" button and when clicked it will show all of the idea cards.
 
+### Deployed Page
+
+https://ganuza.github.io/ideaBox/
+
 ### Installation instructions
 
 To clone down this repository to your local machine:
